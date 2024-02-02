@@ -1,0 +1,3 @@
+This project is yet another assignment from school where I had to create a simple simulation in order to dock two satellites. One of the satellites were in a state of rest 
+whilst the other satellite were suppose to have a relative velocity of 2m/s or less, this can be controlled by the user increasing or decreasing the thrust. We ignored all other
+external forces where only the propulsion force of the satellite is used to keep it simple. We used simple physics like Newtons laws in order to measure our calculations.  
